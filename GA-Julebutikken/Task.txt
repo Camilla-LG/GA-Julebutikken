@@ -1,0 +1,25 @@
+﻿Julebutikken
+Velkommen til "Alvenes Julebutikk" på Nordpolen! Du har blitt rekruttert til Nordpolen som ny 
+ansatt i butikken. Alvene jobber hardt for å fylle butikken med alt fra magiske leker til 
+deilige julegodterier. Julebutikken er stedet der familier fra hele verden kommer for å 
+finne de perfekte gavene til sine kjære.
+
+
+Du har blitt bedt om å utvikle et kasseapparatprogram for julebutikken. 
+Nordpolen ønsker et system som lar alvene registrere julevarene, beregne totalsummen, og 
+håndtere betalingene fra kundene. Alvene skal kunne legge til varer, fjerne varer, og fullføre 
+transaksjonen mens de spreder juleglede og hjelper kundene med å finne det de trenger til jul.
+
+Funksjonalitet å inkludere:
+Legg til varer i handlekurven: Mulighet til å legge til julevarer med beskrivelser, priser og 
+antall i en handlekurv.
+Vis total og håndter betaling: Beregne den totale prisen for alle varer i handlekurven og 
+gjennomføre betaling ved å motta beløpet fra kunden.
+Administrer kundetransaksjoner: Håndter transaksjonsdetaljer som kvitteringer, kundeforhold og 
+informasjon om kjøp.
+
+
+Ekstra funksjoner (valgfritt):
+Implementer en lagerstyringssystem for å oppdatere varelageret når kjøp blir gjort.
+Lag en grafisk brukergrensesnitt for en mer visuell og interaktiv opplevelse.
+Tilby ulike betalingsalternativer som kontant, kort eller digital betaling.
